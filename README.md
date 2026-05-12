@@ -14,6 +14,14 @@
 
 ## 安装
 
+### 一键安装（推荐）
+
+确认已安装 Tampermonkey 后，点击下方链接，Tampermonkey 会自动弹出安装面板：
+
+👉 [安装 twitter-x-24h-time.user.js (v1.0.0)](https://github.com/baduyifei/twitter-x-24h-time/releases/download/v1.0.0/twitter-x-24h-time.user.js)
+
+### 手动安装
+
 1. 安装 Tampermonkey。
 2. 新建用户脚本。
 3. 复制 [`twitter-x-24h-time.user.js`](./twitter-x-24h-time.user.js) 的全部内容并粘贴保存。

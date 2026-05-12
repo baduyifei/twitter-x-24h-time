@@ -6,6 +6,8 @@
 // @author       baduyifei <baduyifei@gmail.com>
 // @homepageURL  https://baduyifei.com
 // @supportURL   https://baduyifei.com
+// @updateURL    https://github.com/baduyifei/twitter-x-24h-time/releases/latest/download/twitter-x-24h-time.user.js
+// @downloadURL  https://github.com/baduyifei/twitter-x-24h-time/releases/latest/download/twitter-x-24h-time.user.js
 // @match        https://twitter.com/*
 // @match        https://x.com/*
 // @grant        none
