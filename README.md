@@ -1,5 +1,7 @@
 # Twitter/X 24-Hour Time
 
+> 仓库地址：<https://github.com/baduyifei/twitter-x-24h-time>
+
 一个简单透明的 Tampermonkey 用户脚本，用于把 Twitter/X 网页版中文界面中的 `上午/下午 H:MM` 时间显示转换为 24 小时制。
 
 ## 功能
