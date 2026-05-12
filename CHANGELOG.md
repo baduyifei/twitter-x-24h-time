@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.1
+
+- 脚本头部新增 `@updateURL` / `@downloadURL`，Tampermonkey 可自动检查更新。
+- README 与安装文档增加一键安装链接。
+
 ## 1.0.0
 
 - 初始发布。
