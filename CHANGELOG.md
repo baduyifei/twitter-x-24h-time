@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.3
+
+- 将脚本名称改为 `Twitter/X 时间改为 24 小时制`。
+- README 与安装文档改为推荐通过 Greasy Fork 安装。
+
 ## 1.0.2
 
 - 新增 MIT 协议 (`LICENSE`)。

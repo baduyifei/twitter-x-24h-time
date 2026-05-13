@@ -1,4 +1,4 @@
-# Twitter/X 24-Hour Time
+# Twitter/X 时间改为 24 小时制
 
 > 仓库地址：<https://github.com/baduyifei/twitter-x-24h-time>
 
@@ -20,7 +20,7 @@
 
 确认已安装 Tampermonkey 后，点击下方链接，Tampermonkey 会自动弹出安装面板：
 
-👉 [安装 twitter-x-24h-time.user.js (v1.0.2)](https://github.com/baduyifei/twitter-x-24h-time/releases/download/v1.0.2/twitter-x-24h-time.user.js)
+👉 [在 Greasy Fork 安装脚本](https://greasyfork.org/zh-CN/scripts/577910-twitter-x-24-hour-time)
 
 安装后 Tampermonkey 会通过 `@updateURL` 自动检查更新。
 
@@ -43,7 +43,7 @@
 
 ## 版本
 
-当前版本：`1.0.2`
+当前版本：`1.0.3`
 
 ## 作者
 
