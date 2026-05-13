@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.2
+
+- 新增 MIT 协议 (`LICENSE`)。
+- 脚本头部增加 `@license MIT` 元数据。
+
 ## 1.0.1
 
 - 脚本头部新增 `@updateURL` / `@downloadURL`，Tampermonkey 可自动检查更新。

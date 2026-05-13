@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         Twitter/X 24-Hour Time
 // @namespace    https://baduyifei.com
-// @version      1.0.1
+// @version      1.0.2
 // @description  Convert Chinese AM/PM timestamps on Twitter/X web pages to 24-hour time.
 // @author       baduyifei <baduyifei@gmail.com>
+// @license      MIT
 // @homepageURL  https://baduyifei.com
 // @supportURL   https://baduyifei.com
 // @updateURL    https://github.com/baduyifei/twitter-x-24h-time/releases/latest/download/twitter-x-24h-time.user.js

@@ -20,7 +20,7 @@
 
 确认已安装 Tampermonkey 后，点击下方链接，Tampermonkey 会自动弹出安装面板：
 
-👉 [安装 twitter-x-24h-time.user.js (v1.0.1)](https://github.com/baduyifei/twitter-x-24h-time/releases/download/v1.0.1/twitter-x-24h-time.user.js)
+👉 [安装 twitter-x-24h-time.user.js (v1.0.2)](https://github.com/baduyifei/twitter-x-24h-time/releases/download/v1.0.2/twitter-x-24h-time.user.js)
 
 安装后 Tampermonkey 会通过 `@updateURL` 自动检查更新。
 
@@ -43,7 +43,7 @@
 
 ## 版本
 
-当前版本：`1.0.1`
+当前版本：`1.0.2`
 
 ## 作者
 

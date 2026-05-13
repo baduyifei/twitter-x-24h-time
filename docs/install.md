@@ -10,7 +10,7 @@
 1. 确认浏览器已安装 Tampermonkey 并处于启用状态。
 2. 点击下方链接，Tampermonkey 会自动弹出安装面板：
 
-   👉 <https://github.com/baduyifei/twitter-x-24h-time/releases/download/v1.0.1/twitter-x-24h-time.user.js>
+   👉 <https://github.com/baduyifei/twitter-x-24h-time/releases/download/v1.0.2/twitter-x-24h-time.user.js>
 
 3. 在弹出面板中点击 `安装`。
 4. 打开或刷新 `https://x.com` 或 `https://twitter.com`。
